@@ -1,0 +1,7 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-dotenv==1.0.1
+supabase==2.7.2
+sib-api-v3-sdk==7.6.0
+httpx==0.27.2
+pydantic[email]==2.9.2
